@@ -1,1482 +1,511 @@
 #EXTM3U
 #EXTINF:32 group-title="News",Polimer News
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 group-title="News",Polimer News FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427783.ts?channelId=43515&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Puthiya Thalaimurai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427785.ts?channelId=43414&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:32 group-title="News",Puthiya Thalaimurai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 group-title="News",Sun News FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427809.ts?channelId=78821&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:32 group-title="News",News7 Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:60 group-title="News",JJ News Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://live.skystream.in/live/jjnewstamil/index.m3u8?hls_ctx=141308l7
 #EXTINF:-1 group-title="News",News18 Tamil Nadu FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427779.ts?channelId=43412&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",News J
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427777.ts?channelId=132364&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="News",News 7 Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427776.ts?channelId=43413&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Seithigal TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427799.ts?channelId=43418&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",News Tamil 24x7
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427778.ts?channelId=132369&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Raj News
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427790.ts?channelId=85935&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Janam TV Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427754.ts?channelId=89848&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Thanthi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427816.ts?channelId=89844&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="News",Jaya Max
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427755.ts?channelId=43410&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="News",JAYA MAX
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://185.160.192.64:80/live/CWX8108/DFR9274/339478.ts
+#EXTINF:-1 group-title="News",Jaya plus
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427757.ts?channelId=85932&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Puthuyugam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427786.ts?channelId=89836&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Madhimugam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427768.ts?channelId=89847&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="News",Sathiyam TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427798.ts?channelId=89841&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="News",M Nadu
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427763.ts?channelId=132367&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="News",IBC Tamil HD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427751.ts?channelId=89821&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:100 group-title="Entertainment",SUN TV HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://tinyurl.com/yaarokayaar1110-channel38
 #EXTINF:-1 group-title="Entertainment",Sun TV FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427810.ts?channelId=43421&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",Sun TV UK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427812.ts?channelId=89823&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",Sun Life
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427807.ts?channelId=89833&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",1.Star Vijay FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427804.ts?channelId=43419&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",1.Star Vijay FHD (BK)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427805.ts?channelId=132400&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",1.Star Vijay Super HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427806.ts?channelId=43518&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",1.Star Vijay FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427804.ts?channelId=43419&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:56 group-title="Entertainment",1.Star Vijay-TWC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://ranapk.online/OPPLEX/RANAPK1/play.php?id=380952%7CUser-Agent=RANAPK
 #EXTINF:-1 group-title="Entertainment",Zee Tamil FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427825.ts?channelId=43423&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Zee Thirai FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427826.ts?channelId=78824&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",ZEE TAMIL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://185.160.192.64:80/live/CWX8108/DFR9274/339355.ts
-#EXTINF:-1 group-title="Entertainment",JAYA TV HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://185.160.192.64:80/live/CWX8108/DFR9274/339396.ts
-#EXTINF:-1 group-title="Entertainment",Jaya TV FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427756.ts?channelId=43517&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Jaya plus
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427757.ts?channelId=85932&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Zee Thirai FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427826.ts?channelId=78824&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",Colors Tamil FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427738.ts?channelId=43408&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",Colors Tamil UK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427739.ts?channelId=89822&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Kalaingar TV 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Kalaingar TV 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/kalaignar_nim_https/240122/kalaignartv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Kalaignar TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427762.ts?channelId=43520&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:100 group-title="Entertainment",RAJ TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://tinyurl.com/yaarokayaar1110-channel57
-#EXTINF:100 group-title="Entertainment",RAJ DIGITAL PLUS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://tinyurl.com/yaarokayaar1110-channel58
-#EXTINF:-1 group-title="Entertainment",Raj TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427791.ts?channelId=43417&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Raj Digital Plus
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427788.ts?channelId=43415&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Makkal TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427769.ts?channelId=89839&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Malar TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://sscloud7.com/live/malartv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",KTV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://185.160.192.64:80/live/CWX8108/DFR9274/339393.ts
 #EXTINF:-1 group-title="Entertainment",KTV UK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427760.ts?channelId=89824&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",KTV FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427759.ts?channelId=43411&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Vikatan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427823.ts?channelId=123917&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Athavan TV HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427732.ts?channelId=89837&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Suria HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/Mediacorp_Suria_DASH/output/manifest.mpd
-#EXTINF:-1 group-title="Entertainment",Star Sports 1 Tamil FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427803.ts?channelId=89820&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",U TV HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.galaxyott.live/live/utv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entertainment",Discovery Channel Tamil FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427743.ts?channelId=132513&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",DD Podhigai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427740.ts?channelId=43409&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Animal Planet HD Tamil FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427731.ts?channelId=89826&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",CN HD+ Tamil FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427734.ts?channelId=89875&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Discovery Channel Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427742.ts?channelId=43516&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Chutti TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427737.ts?channelId=78855&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="Entertainment",Discovery Kids
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427746.ts?channelId=89865&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Kalaignar TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427762.ts?channelId=43520&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Kalaingar TV 1
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Kalaingar TV 2
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/kalaignar_nim_https/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Chithiram TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427736.ts?channelId=43407&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Polimer TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427784.ts?channelId=85931&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",JAYA TV HD
+http://185.160.192.64:80/live/CWX8108/DFR9274/339396.ts
+#EXTINF:-1 group-title="Entertainment",Jaya TV FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427756.ts?channelId=43517&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Jaya Max
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427755.ts?channelId=43410&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",JAYA MAX
+http://185.160.192.64:80/live/CWX8108/DFR9274/339478.ts
+#EXTINF:-1 group-title="Entertainment",J Movies
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427753.ts?channelId=85933&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:100 group-title="Entertainment",RAJ TV
+https://tinyurl.com/yaarokayaar1110-channel57
+#EXTINF:-1 group-title="Entertainment",Raj TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427791.ts?channelId=43417&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:100 group-title="Entertainment",RAJ DIGITAL PLUS
+https://tinyurl.com/yaarokayaar1110-channel58
+#EXTINF:-1 group-title="Entertainment",Raj Digital Plus
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427788.ts?channelId=43415&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="Entertainment",Vasantham TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://stream.onecloudlive.in/dhandapani/vasanthamtv/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Vendhar TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427822.ts?channelId=43422&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="comedy",Sirippoli TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427800.ts?channelId=43521&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="comedy",Adithya TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427728.ts?channelId=43404&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="comedy",Rasi Comedy
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="music",Sun Music FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427808.ts?channelId=43420&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="music",Isaiaruvi
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427752.ts?channelId=43522&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="music",Isai Aruvi 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 group-title="music",Isai Aruvi 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 group-title="music",Isai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://server.sscloud7.in/isaihd/isaihd/index.m3u8
-#EXTINF:-1 group-title="music",Thirai Isai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
-#EXTINF:-1 group-title="music",G Music
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
-#EXTINF:-1 group-title="music",MK Music
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427764.ts?channelId=89881&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:100 group-title="music",MN Music
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:25 group-title="music",Sachin Music [MPD]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/sachintv/musichd/index.mpd
-#EXTINF:-1 group-title="music",Pothigai Thendral
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/pothigai/thendral/index.m3u8
-#EXTINF:-1 group-title="music",Murasu TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427774.ts?channelId=89838&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:32 group-title="music",Murasu
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1 group-title="music",Moon TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427773.ts?channelId=132362&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="music",MK TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427766.ts?channelId=89846&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="music",MK Six
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 group-title="Entertainment",MK Six
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427765.ts?channelId=89985&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Yours TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 group-title="Entertainment",Moon TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427773.ts?channelId=132362&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Thalaa TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427815.ts?channelId=89858&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:24 group-title="Entertainment",Roja TV
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:21 group-title="Entertainment",Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:31 group-title="Entertainment",Rock TV
+https://apis.avmediawork.in/tvhls/rocktv.m3u8
+#EXTINF:-1 group-title="Entertainment",Tamilan Television
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427813.ts?channelId=89867&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Makkal TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427769.ts?channelId=89839&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Vikatan TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427823.ts?channelId=123917&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",DD Podhigai
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427740.ts?channelId=43409&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Peppers TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427781.ts?channelId=23125&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Vasanth TV (Spiritual)
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427820.ts?channelId=89835&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Entertainment",Vaanavil TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427819.ts?channelId=89871&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:29 group-title="Entertainment",Vanavil TV
+http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Sun Music FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427808.ts?channelId=43420&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Music",Isaiaruvi
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427752.ts?channelId=43522&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Music",Isai Aruvi 1
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 group-title="Music",Isai Aruvi 2
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 group-title="Music",Raj Musix
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427789.ts?channelId=43416&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Music",Murasu TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427774.ts?channelId=89838&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Music",Tunes 6
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427818.ts?channelId=89843&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Music",G Music
+https://rtmp.applelive.in/gmusic/gmusic/index.m3u8
+#EXTINF:100 group-title="Music",MN Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:25 group-title="Music",Sachin Music [MPD]
+https://ipcloud.live/sachintv/musichd/index.mpd
+#EXTINF:23 group-title="Music",RJ Tamil [Not 24/7]
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+#EXTINF:-1 group-title="Music",Pothigai Thendral
+https://ipcloud.live/pothigai/thendral/index.m3u8
+#EXTINF:-1 group-title="Music",Thirai Isai
+https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+#EXTINF:-1 group-title="Music",Isai TV
+https://server.sscloud7.in/isaihd/isaihd/index.m3u8
+#EXTINF:-1 group-title="Kids",Pogo Tamil
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427782.ts?channelId=89849&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Kids",CN HD+ Tamil FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427734.ts?channelId=89875&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Kids",Nick Tamil
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427780.ts?channelId=89850&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Kids",Sonic Tamil
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427802.ts?channelId=89864&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Kids",Chutti TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427737.ts?channelId=78855&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Kids",Discovery Kids
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427746.ts?channelId=89865&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Comedy",Sirippoli TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427800.ts?channelId=43521&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Comedy",Adithya TV
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427728.ts?channelId=43404&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Infotainment",Discovery Channel Tamil FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427743.ts?channelId=132513&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Infotainment",Discovery Channel Tamil
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427742.ts?channelId=43516&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Infotainment",Animal Planet HD Tamil FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427731.ts?channelId=89826&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Infotainment",Travel XP Tamil
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427817.ts?channelId=89862&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:-1 group-title="Sports",Star Sports 1 Tamil FHD
+http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427803.ts?channelId=89820&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:32 group-title="All",Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:648 group-title="All",Tharun Movies
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+#EXTINF:-1 group-title="All",Malar TV
+https://sscloud7.com/live/malartv/index.m3u8
+#EXTINF:-1 group-title="All",U TV HD
+https://stream.galaxyott.live/live/utv/tracks-v1a1/mono.m3u8
+#EXTINF:30 group-title="All",Yours TV
 http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
-#EXTINF:-1 group-title="All",Yogaa TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Yogaa TV
 https://ipcloud.live/yogaatv/yogaatv/index.m3u8
 #EXTINF:30 group-title="All",YET TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
-#EXTINF:-1 group-title="All",Visil TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Visil TV
 https://stream.sscloud7.in/live/vishiltv1/index.m3u8
-#EXTINF:-1 group-title="All",Visil Max
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Visil Max
 https://stream.sscloud7.in/live/vishiltv2/index.m3u8
-#EXTINF:-1 group-title="All",Visaka TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:29 group-title="All",Visaka TV
 http://visaka.7starcloud.com:1935/live/visakatv/playlist.m3u8
-#EXTINF:-1 group-title="All",Vinayaka TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Vinayaka TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
 #EXTINF:24 group-title="All",Vinayaga TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://server.mindspell.in/live/vinayagatv/index.m3u8
 #EXTINF:-1 group-title="All",Vidiyal TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8?psk=stream
-#EXTINF:-1 group-title="All",Velan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Velan TV
 https://cloudstream4k.com/velantv/bsk/index.m3u8
-#EXTINF:-1 group-title="All",Veerali TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:23 group-title="All",Veerali TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
-#EXTINF:60 group-title="All",Vedha TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:64 group-title="All",Vedha TV
 https://skystream.in/live/vedha6528/index.m3u8
-#EXTINF:-1 group-title="All",VCTN TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",VCTN TV
 http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
-#EXTINF:-1 group-title="All",Vanavil TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
 #EXTINF:-1 group-title="All",Vaani Visuals [RTMP]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 rtmp://vaanivisuals.in:1935/vaanitv/vaanitv
-#EXTINF:-1 group-title="All",UTV Mayuram
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:35 group-title="All",UTV Mayuram
 https://notvstream.in/utv/utv.m3u8
-#EXTINF:20 group-title="All",Ultimate TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Ultimate TV
 https://stream.galaxyott.live/live/utv/index.m3u8
-#EXTINF:-1 group-title="All",Udhayam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:35 group-title="All",Udhayam TV
 https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
 #EXTINF:-1 group-title="All",Time TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://live.olidigital.in/timetv/timetv/index.m3u8
 #EXTINF:-1 group-title="All",Thirumalai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://notvstream.in/thirumalaitv/thirumalaitv.m3u8
 #EXTINF:-1 group-title="All",Thirumagal TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
 #EXTINF:-1 group-title="All",Thirai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 #EXTINF:21 group-title="All",Thendral TV TAMILNADU BY TWC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://sscloud7.com/live/thendraltv/index.m3u8
-#EXTINF:-1 group-title="All",Thendral TV Madurai [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Thendral TV Madurai [Not 24/7]
 https://ipcloud.live/thendralmdu/madurai/index.m3u8
-#EXTINF:-1 group-title="All",Thendral TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Thendral TV
 https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:648 group-title="All",Tharun Movies
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
-#EXTINF:-1 group-title="All",Thalapathy TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",Thalapathy TV
 https://play.applelive.in/thalapathytv/thalapathytv.m3u8
-#EXTINF:-1 group-title="All",Temble TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",Temble TV
 https://notvstream.in/tembletv/tembletv.m3u8
-#EXTINF:-1 group-title="All",Tamilnesan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",Tamilnesan TV
 https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
-#EXTINF:-1 group-title="All",TAMILNADU BY TWC TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.rcserver.in/tmp_hls16/TAMILNADU%20BY%20TWCtv/index.m3u8
-#EXTINF:-1 group-title="All",TAMILNADU BY TWC City
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.rcserver.in/tmp_hls17/TAMILNADU%20BY%20TWCcity/index.m3u8
-#EXTINF:-1 group-title="All",TAMIL TV BY TWC india - KIDS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://twciptv.github.io/TAMIL%20TV%20BY%20TWC%20india%20-%20KIDS
 #EXTINF:-1 group-title="All",TAMIL TV BY TWC india
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://twciptv.github.io/TAMIL%20TV%20BY%20TWC%20india
-#EXTINF:-1 group-title="All",Tamil TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/tamiltv/tamiltvhd/index.m3u8
 #EXTINF:30 group-title="All",Tamil Star TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://acv.7starcloud.com:1935/tamilstar/tv/playlist.m3u8
-#EXTINF:-1 group-title="All",Tamil Oli TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Tamil Oli TV
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
-#EXTINF:-1 group-title="All",TAMIL NADU LOCAL CHENNALS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://twciptv.github.io/TAMIL%20NADU%20LOCAL%20CHENNALS
-#EXTINF:-1 group-title="All",Tamil Magan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:43 group-title="All",Tamil Magan TV
 http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
-#EXTINF:-1 group-title="All",SV TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://shreeparams.7starcloud.com:1935/live/params/playlist.m3u8
-#EXTINF:-1 group-title="All",Surya TV Digital
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.sscloud7.in/live/suryatv/index.m3u8
-#EXTINF:-1 group-title="All",Surya TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://galaxyott.live/hls/suryatv.m3u8
-#EXTINF:-1 group-title="All",Suriyan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:23 group-title="All",Suriyan TV
 https://stream.galaxyott.live/live/suriyantv/index.m3u8
-#EXTINF:-1 group-title="All",Succes TV Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
-#EXTINF:-1 group-title="All",Subin TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1 group-title="All",Subi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",Subi TV
 https://notvstream.in/subitv/subitv.m3u8
-#EXTINF:-1 group-title="All",Subash TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/subashtv/subashhd/index.m3u8
-#EXTINF:-1 group-title="All",Strawberry TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",Strawberry TV
 https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
 #EXTINF:-1 group-title="All",SSCN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://app.ashokadigital.net/sscn/sscn/index.m3u8
-#EXTINF:-1 group-title="All",SS TV Nagercoil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",SS TV Nagercoil
 https://server.sscloud7.in/live/sshd/playlist.m3u8
-#EXTINF:-1 group-title="All",SS TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",SS TV
 https://notvstream.in/sstv/sstv.m3u8
-#EXTINF:-1 group-title="All",Sri Thangamalai Murugan Tv
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://server3.sscloud7.in:1935/stmtv/srithangamalaimurugantv/playlist.m3u8
-#EXTINF:-1 group-title="All",Sri Krishna TV Tiruchengode
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Sri Krishna TV Tiruchengode
 http://krishnatv.7starcloud.com:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="All",Sri Krishna TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Sri Krishna TV
 http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="All",Sree Saravanaa TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.advikadigital.in/advika/saravana/index.m3u8
-#EXTINF:-1 group-title="All",SONY YAY TAMIL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://public.kliv.fun/Mac21o/play.php?id=1097
-#EXTINF:-1 group-title="All",sony max
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/SonyMAX/output/manifest.mpd
-#EXTINF:-1 group-title="All",Sony Entertainment Television
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd
-#EXTINF:-1 group-title="All",SONIC TAMIL
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://public.kliv.fun/Mac21o/play.php?id=11802
-#EXTINF:-1 group-title="All",sonic Tamil
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd
-#EXTINF:-1 group-title="All",Smiley TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",Smiley TV
 https://live1.sscloud7.com/live/smileytv/index.m3u8
-#EXTINF:-1 group-title="All",SMCV TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:34 group-title="All",SMCV TV
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1 group-title="All",Sky TV (TCCL)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://uiptv.iptv.pics/hls/skytv/index.m3u8
-#EXTINF:-1 group-title="All",Sky TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.apserver.in/tmp_hls13/skytv/index.m3u8
-#EXTINF:-1 group-title="All",Sky Plus TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/skytv/skytv/index.m3u8
-#EXTINF:-1 group-title="All",Sky Media
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:22 group-title="All",Sky Media
 http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
-#EXTINF:-1 group-title="All",SK TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:23 group-title="All",SK TV
 https://stream.galaxyott.live/live/sktv/index.m3u8
-#EXTINF:-1 group-title="All",Shalini TV Tiruvannamalai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 group-title="All",Shalini TV TAMILNADU BY TWC [UNSTABLE]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 group-title="All",Shalini TV TAMILNADU BY TWC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 group-title="All",Shalini TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",Shalini TV
 https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 group-title="All",Sha TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:40 group-title="All",Sha TV
 https://play.applelive.in/shatv/shatv.m3u8
-#EXTINF:-1 group-title="All",SG VASANTHAM 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-#EXTINF:-1 group-title="All",SG VASANTHAM 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-#EXTINF:-1 group-title="All",SG MEDIA CORP
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
-#EXTINF:-1 group-title="All",Sentamil TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.rcserver.in/tmp_hls15/senthamiltv/index.m3u8
-#EXTINF:-1 group-title="All",Selfie TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:48 group-title="All",Selfie TV
 https://play.applelive.in/selfeetv/selfeetv.m3u8
-#EXTINF:-1 group-title="All",Santhiya TV JKM
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/santhiyatv/jkm/index.m3u8
-#EXTINF:-1 group-title="All",Santhiya TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/santhiyatv/santhiyatvhd/index.m3u8
-#EXTINF:-1 group-title="All",Sangamam TV Erode
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/sangamamtv/sangamamtvhd/index.m3u8
 #EXTINF:60 group-title="All",Sana TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://galaxyott.live/hls/sanatv.m3u8
-#EXTINF:106 group-title="All",Sana Plus
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:129 group-title="All",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 group-title="All",Sailam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/deepamtv/sailamtv/index.m3u8
-#EXTINF:-1 group-title="All",Sai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Sai TV
 https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
-#EXTINF:-1 group-title="All",Sahara TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/saharatv/saharatv/index.m3u8
-#EXTINF:-1 group-title="All",Sachin TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/sachintv/sachintvhd/index.m3u8
-#EXTINF:-1 group-title="All",Saami TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Saami TV
 https://ipcloud.live/msntv/saamitv/index.m3u8
-#EXTINF:-1 group-title="All",S TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",S TV
 https://play.applelive.in/stv/stv.m3u8
-#EXTINF:-1 group-title="All",S Max TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:31 group-title="All",S Max TV
 http://play.applelive.in/smaxtv/smaxtv.m3u8
-#EXTINF:-1 group-title="All",RR TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://notvstream.in/rrtv/rrtv.m3u8
-#EXTINF:-1 group-title="All",Roja TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:21 group-title="All",Roja Movies
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 group-title="All",Rock TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://apis.avmediawork.in/tvhls/rocktv.m3u8
-#EXTINF:-1 group-title="All",RJ Tamil [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-#EXTINF:-1 group-title="All",Riya TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:60 group-title="All",Riya TV
 https://play.applelive.in/riyatv/riyatv.m3u8
-#EXTINF:-1 group-title="All",Rio TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Rio TV
 https://stream.onecloudlive.in/riotv/riotvhd/index.m3u8
-#EXTINF:-1 group-title="All",Rasi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="All",Rasi Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="All",Rasi Hollywood
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="All",Rasi Classic
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="All",Rainbow TV TAMILNADU BY TWC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:31 group-title="All",Rainbow TV TAMILNADU BY TWC
 https://notvstream.in/rainbowtv/rainbowtv.m3u8
-#EXTINF:-1 group-title="All",Rainbow TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=a7618r13
-#EXTINF:-1 group-title="All",Raghul TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://alk.sscloud7.in:1935/live/raghultv/index.m3u8
-#EXTINF:-1 group-title="All",Ragam TV [RTMP]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-rtmp://stream.wsplcloud.com/live/ragamtv
-#EXTINF:-1 group-title="All",R TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.olidigital.in/rtv/rtv/index.m3u8
-#EXTINF:-1 group-title="All",Queens 143
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://notvstream.in/queens/queens.m3u8
-#EXTINF:-1 group-title="All",QMax Plus
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.rcserver.in/tmp_hls21/qmaxtv/index.m3u8
-#EXTINF:-1 group-title="All",Punithan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.singamcloud.in/punithantv/punithantv/index.m3u8
 #EXTINF:21 group-title="All",Prime TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://live.applelive.in/primetv/primetv/index.m3u8
-#EXTINF:-1 group-title="All",PR TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",PR TV
 https://play.applelive.in/prtv/prtv.m3u8
-#EXTINF:-1 group-title="All",Phoenix TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
-#EXTINF:-1 group-title="All",PCV Channel
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",PCV Channel
 https://stream.sscloud7.in/live/livepcv/index.m3u8
-#EXTINF:-1 group-title="All",Params TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",Params TV
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
-#EXTINF:-1 group-title="All",Panjami TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
-#EXTINF:-1 group-title="All",Paavai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/paavai/live/index.m3u8
-#EXTINF:-1 group-title="All",Oscar TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:63 group-title="All",Oscar TV
 https://account21.livebox.co.in/oscartvhls/live.m3u8
-#EXTINF:-1 group-title="All",Orange TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:31 group-title="All",Orange TV
 https://notvstream.in/orangetv/orangetv.m3u8
-#EXTINF:-1 group-title="All",OPV TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.apserver.in/tmp_hls5/opvtv/index.m3u8
-#EXTINF:-1 group-title="All",Om Sakthi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",Om Sakthi TV
 https://live1.sscloud7.com/live/omsakthitv/index.m3u8
-#EXTINF:-1 group-title="All",Oli TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 group-title="All",NTV Trichy
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:43 group-title="All",NTV Trichy
 https://notvstream.in/ntv/ntv.m3u8
-#EXTINF:-1 group-title="All",NTV Nellai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",NTV Nellai
 http://ntv.phoenixcreations.online/ntv/ntv/index.m3u8
 #EXTINF:-1 group-title="All",NTC TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://galaxyott.live/hls/ntv.m3u8
-#EXTINF:-1 group-title="All",No 1 TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.skystream.in/live/no1tv/index.m3u8
-#EXTINF:-1 group-title="All",Nisha TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://app.ashokadigital.net/app/acde2e67/index.m3u8
-#EXTINF:-1 group-title="All",Nila TV Nellai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
-#EXTINF:-1 group-title="All",Nila TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/nilatv/nilatv/index.m3u8
-#EXTINF:-1 group-title="All",new list need to deit
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://twciptv.github.io/new%20list%20need%20to%20deit
-#EXTINF:-1 group-title="All",NEW LIST
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://twciptv.github.io/NEW%20LIST%20
-#EXTINF:-1 group-title="All",Nellai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
-#EXTINF:-1 group-title="All",Namma Gobi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Namma Gobi TV
 https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
-#EXTINF:-1 group-title="All",Namathu Sangamam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Namathu Sangamam TV
 http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
-#EXTINF:-1 group-title="All",Mullai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:34 group-title="All",Mullai TV
 https://view.apserver.in/tmp_hls12/bakthimanam/index.m3u8
-#EXTINF:-1 group-title="All",MSN TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",MSN TV
 https://ipcloud.live/msntv/msntv/index.m3u8
-#EXTINF:-1 group-title="All",MR TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.apserver.in/tmp_hls8/mrtv/index.m3u8
-#EXTINF:-1 group-title="All",MP TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.sscloud7.in/live/mptv/index.m3u8
-#EXTINF:-1 group-title="All",MN TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:64 group-title="All",MN TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 group-title="All",Minnal TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Minnal TV
 https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
-#EXTINF:21 group-title="All",Max Movies
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1 group-title="All",Mathi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",Mathi TV
 https://notvstream.in/mathitv/mathitv.m3u8
-#EXTINF:-1 group-title="All",Maruthi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:23 group-title="All",Maruthi TV
 https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
-#EXTINF:-1 group-title="All",Maran TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:33 group-title="All",Maran TV
 https://server.sscloud7.in/marantv/marantv/index.m3u8
-#EXTINF:-1 group-title="All",Maniway TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:38 group-title="All",Maniway TV
 https://live.singamcloud.in/bsctv/bsctv/index.m3u8
-#EXTINF:-1 group-title="All",Manasu TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:63 group-title="All",Manasu TV
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
-#EXTINF:-1 group-title="All",Malathi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Malathi TV
 https://ipcloud.live/malathitv/malathitv/index.m3u8
-#EXTINF:-1 group-title="All",Magizh TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",Magizh TV
 http://magizhtv.phoenixcreations.online/magizhtv/magizhtv/index.m3u8
-#EXTINF:-1 group-title="All",Maa TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Maa TV
 http://maatv.phoenixcreations.online/maatv/maatv/index.m3u8
-#EXTINF:-1 group-title="All",M&M TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://notvstream.in/mmtv/mmtv.m3u8
-#EXTINF:-1 group-title="All",M Television [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/mtv/menhd/index.m3u8
-#EXTINF:-1 group-title="All",Like TV [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.apserver.in/tmp_hls16/liketv/index.m3u8
-#EXTINF:-1 group-title="All",Leo TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/leotv/leotvhd/index.m3u8
-#EXTINF:-1 group-title="All",Leaf TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:49 group-title="All",Leaf TV
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
-#EXTINF:-1 group-title="All",L TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.singamcloud.in/rtv/rtv/index.m3u8
-#EXTINF:-1 group-title="All",Kumari Kathir TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Kumari Kathir TV
 https://play.applelive.in/jjmax/jjmax.m3u8
-#EXTINF:-1 group-title="All",Kumaran TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Kumaran TV
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
-#EXTINF:-1 group-title="All",Krishna TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://notvstream.in/krishnatv/krishnatv.m3u8
-#EXTINF:-1 group-title="All",King TV Alangulam
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",King TV Alangulam
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
-#EXTINF:-1 group-title="All",King TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:8 group-title="All",King TV
 https://rtmp.bmlive.net/kingtv/kingtv/stream.m3u8
-#EXTINF:-1 group-title="All",King 24x7
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",King 24x7
 https://notvstream.in/kingtv/kingtv.m3u8
-#EXTINF:-1 group-title="All",KCTN TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",KCTN TV
 http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
-#EXTINF:-1 group-title="All",KCN TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",KCN TV
 https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
-#EXTINF:-1 group-title="All",Kavin TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Kavin TV
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="All",Karthick TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/karthick/karthicktvhd/index.m3u8
-#EXTINF:-1 group-title="All",Karisma
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/Karisma/output/manifest.mpd
-#EXTINF:-1 group-title="All",JRP TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:23 group-title="All",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
-#EXTINF:-1 group-title="All",JR Malar TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",JR Malar TV
 https://server.sscloud7.in/live/malartv/index.m3u8
-#EXTINF:-1 group-title="All",Jith TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:40 group-title="All",Jith TV
 https://sscloud7.com/live/jithtv/index.m3u8
-#EXTINF:-1 group-title="All",Jeyson TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Jeyson TV
 https://play.applelive.in/jeysontv/jeysontv.m3u8
-#EXTINF:-1 group-title="All",Jeyam TV Madurai [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/jeyam/jeyammdu/index.m3u8
-#EXTINF:-1 group-title="All",Jeiyan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",Jeiyan TV
 https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
-#EXTINF:-1 group-title="All",Jeevan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:34 group-title="All",Jeevan TV
 https://stream.singamcloud.in/Jeevantv/Jeevantv/index.m3u8
-#EXTINF:-1 group-title="All",JCV Musix
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",JCV Musix
 https://play.applelive.in/jcvtv/jcvmusix.m3u8
-#EXTINF:-1 group-title="All",JCV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:33 group-title="All",JCV
 https://play.applelive.in/jcvtv/jcvtv.m3u8
-#EXTINF:-1 group-title="All",JC TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:35 group-title="All",JC TV
 https://play.applelive.in/jctv/jctv.m3u8
-#EXTINF:35 group-title="All",Jayam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1 group-title="All",Jayam TV
 https://view.rcserver.in/tmp_hls20/index.m3u8
-#EXTINF:-1 group-title="All",Jawahar Channel
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:30 group-title="All",Jawahar Channel
 http://jawahar.7starcloud.com:1935/live/app/playlist.m3u8
-#EXTINF:-1 group-title="All",IN-TM | SONIC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://www.redbooks.site/x11.php?id=380965.m3u8
 #EXTINF:30 group-title="All",Hitech TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://notvstream.in/hitechtv/hitechtv.m3u8
-#EXTINF:-1 group-title="All",Harin TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Harin TV
 https://ipcloud.live/harintv/harintvhd/index.m3u8
-#EXTINF:-1 group-title="All",Hari TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://haritv.stream.ashokadigital.net/haritv/haritvhd/index.m3u8
-#EXTINF:-1 group-title="All",Hai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",Hai TV
 https://play.applelive.in/haitv/haitv.m3u8
-#EXTINF:-1 group-title="All",GEM TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:40 group-title="All",GEM TV
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
-#EXTINF:-1 group-title="All",Ganesh TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Ganesh TV
 https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="All",Ezhil TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:22 group-title="All",Ezhil TV
 http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="All",Everest TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.apserver.in/tmp_hls11/everesttv/index.m3u8
-#EXTINF:-1 group-title="All",Eagle TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Eagle TV
 https://ipcloud.live/eaglemedia/eagletv/index.m3u8
-#EXTINF:-1 group-title="All",DW English HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/DW/output/manifest.mpd
-#EXTINF:-1 group-title="All",Durai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/duraitv/live/index.m3u8
 #EXTINF:33 group-title="All",Dtv
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://stream.d6-pro.com/Dtv/live/index.m3u8
-#EXTINF:-1 group-title="All",Digital TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:49 group-title="All",Digital TV
 https://play.applelive.in/digitaltv/digitaltv.m3u8
-#EXTINF:-1 group-title="All",Dhoni TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",Dhoni TV
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
-#EXTINF:-1 group-title="All",Dhejes TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:35 group-title="All",Dhejes TV
 https://view.apserver.in/tmp_hls4/lingaatv/index.m3u8
-#EXTINF:-1 group-title="All",Dheiveegam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Dheiveegam TV
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
-#EXTINF:-1 group-title="All",Dharumai Adeenam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Dharumai Adeenam TV
 https://stream.onecloudlive.in/taitaltv/livetv/index.m3u8
-#EXTINF:-1 group-title="All",Dharshan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://galaxyott.live/hls/dharshantv.m3u8
-#EXTINF:-1 group-title="All",Devi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:40 group-title="All",Devi TV
 http://server.mindspell.in/live/devitv/index.m3u8
-#EXTINF:-1 group-title="All",Deiveega Oli TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:23 group-title="All",Deiveega Oli TV
 https://app.ashokadigital.net/app/e9fa0994/index.m3u8
 #EXTINF:21 group-title="All",Deiva Oli
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://stream.sscloud7.in/live/deivaoli/index.m3u8
-#EXTINF:-1 group-title="All",Deavathai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Deavathai TV
 https://hdbox.singamcloud.in/Deavathaitv/Deavathaitv/index.m3u8
-#EXTINF:-1 group-title="All",Dark Television
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",Dark Television
 https://play.applelive.in/darktv/darktv.m3u8
-#EXTINF:-1 group-title="All",CSK TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://csktv.7starcloud.com:1935/csktv/csktvdpi/playlist.m3u8
-#EXTINF:-1 group-title="All",City TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://hd.singamcloud.in/citytv/citytv/index.m3u8
-#EXTINF:-1 group-title="All",Citra Entertainment
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/CitraEntertainment/output/manifest.mpd
-#EXTINF:-1 group-title="All",Channel Spice [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
-#EXTINF:-1 group-title="All",Chakra TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.onecloudlive.in/chakratv/chekratvtju/index.m3u8
-#EXTINF:-1 group-title="All",Bright Simrose TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",Bright Simrose TV
 https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
-#EXTINF:-1 group-title="All",Boys TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Boys TV
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
-#EXTINF:-1 group-title="All",Boss Television
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:31 group-title="All",Boss Television
 https://play.applelive.in/vasantv/vasantv.m3u8
-#EXTINF:-1 group-title="All",Boobsh TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://rtmp.applelive.in/boobsh/boobsh/index.m3u8
-#EXTINF:-1 group-title="All",BK TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",BK TV
 https://view.apserver.in/tmp_hls3/bktv/index.m3u8
 #EXTINF:24 group-title="All",Bharathi TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://server.sscloud7.in/live/bharathitv/index.m3u8
-#EXTINF:-1 group-title="All",Ayya Vaikuntar TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://server.sscloud7.in/live/ayyatv/index.m3u8
-#EXTINF:-1 group-title="All",Asoka TV [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/asokatv/asokahd/index.m3u8
-#EXTINF:-1 group-title="All",Asianet
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/Asianet/output/manifest.mpd
-#EXTINF:-1 group-title="All",Ashoka TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",Ashoka TV
 https://app.ashokadigital.net/app/12f5e922/index.m3u8
-#EXTINF:-1 group-title="All",Arunai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:36 group-title="All",Arunai TV
 https://notvstream.in/arunaitv/arunaitv.m3u8
-#EXTINF:-1 group-title="All",Apple TV TAMILNADU BY TWC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.iplive.xyz/appletv/4kpondy/index.m3u8
-#EXTINF:-1 group-title="All",Apple TV Nagercoil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:35 group-title="All",Apple TV Nagercoil
 https://play.applelive.in/appletv/appletv.m3u8
-#EXTINF:-1 group-title="All",Apple TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:35 group-title="All",Apple TV
 https://view.rcserver.in/tmp_hls18/index.m3u8
-#EXTINF:-1 group-title="All",ANC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ucdn.starhubgo.com/bpk-tv/ANC/output/manifest.mpd
-#EXTINF:-1 group-title="All",Anbu TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Anbu TV
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 #EXTINF:21 group-title="All",Anandham TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://stream.galaxyott.live/live/anandhamtv/index.m3u8
 #EXTINF:-1 group-title="All",Anandam TV [RTMP]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 rtmp://in-2.castr.io/static/live_a617dda0c02c11eeb02035c643a92b1e
-#EXTINF:-1 group-title="All",Anandam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",Anandam TV
 https://notvstream.in/anandamtv/anandamtv.m3u8
 #EXTINF:-1 group-title="All",Anandam Abi TV [RTMP]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 rtmp://in-2.castr.io/static/live_40fb69e0107211f0adde2f394a2bbc0f
-#EXTINF:-1 group-title="All",Amman TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://app.ashokadigital.net/app/7d1a23ef/index.m3u8
-#EXTINF:-1 group-title="All",Amma Vision
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:35 group-title="All",Amma Vision
 https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
-#EXTINF:-1 group-title="All",Akash TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:64 group-title="All",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1 group-title="All",Ajay TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:40 group-title="All",Ajay TV
 https://server.sscloud7.in/live/ajaytv/index.m3u8
-#EXTINF:-1 group-title="All",Advika TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://stream.advikadigital.in/advika/advika/index.m3u8
-#EXTINF:-1 group-title="All",Adhiyamaan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:33 group-title="All",Adhiyamaan TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
-#EXTINF:-1 group-title="All",ACP TV Madurai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://stream.iplive.xyz/acptvclassic/acptvhd/index.m3u8
-#EXTINF:-1 group-title="All",Aasai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:32 group-title="All",Aasai TV
 https://notvstream.in/aasaitv/aasaitv.m3u8
-#EXTINF:-1 group-title="All",Aaryaa TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Aaryaa TV
 https://live.sscloud7.in/live/aaryaatv/index.m3u8
-#EXTINF:-1 group-title="All",Aalaya Magimai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://app.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
-#EXTINF:-1 group-title="All",Aadvik TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:20 group-title="All",Aadvik TV
 https://ipcloud.live/sachintv/aadviktv/index.m3u8
-#EXTINF:-1 group-title="All",Aadhavan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/aadhavantv/aadhavanhd/index.m3u8
 #EXTINF:-1 group-title="All",A2A TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://live.sscloud7.in/live/a2atv/index.m3u8
 #EXTINF:30 group-title="All",7Star TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://premium.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:64 group-title="All",7 Green 4K
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:24 group-title="All",3 Star TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://stream.onecloudlive.in/threestartv/threestarhd/index.m3u8
 #EXTINF:-1 group-title="All",Velukkudi Discourses
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427821.ts?channelId=89879&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Vasanth TV (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427820.ts?channelId=89835&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Vaanavil TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427819.ts?channelId=89871&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Tunes 6
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427818.ts?channelId=89843&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Travel XP Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427817.ts?channelId=89862&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Thalaa TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427815.ts?channelId=89858&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Tamilan Television
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427813.ts?channelId=89867&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",SVBC 4 (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427796.ts?channelId=132359&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",SVBC 3 (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427795.ts?channelId=132358&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",SVBC 2 (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427794.ts?channelId=132357&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",SVBC 1 (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427793.ts?channelId=89834&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",SRS Bhakti TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427792.ts?channelId=132368&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Sonic Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427802.ts?channelId=89864&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",Sivan Temple TV (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427801.ts?channelId=89857&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:40 group-title="All",SG CNA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="All",Sathiyam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427798.ts?channelId=89841&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",Sai TV (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427797.ts?channelId=43519&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Raj Musix
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427789.ts?channelId=43416&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",RadheKrishna TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427787.ts?channelId=132372&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Polimer TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427784.ts?channelId=85931&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Peppers TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427781.ts?channelId=23125&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Nick Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427780.ts?channelId=89850&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",M Nadu
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427763.ts?channelId=132367&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",Jothi TV (Spiritual) FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427758.ts?channelId=89883&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",J Movies
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427753.ts?channelId=85933&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",IBC Bhakthi HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427750.ts?channelId=132205&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",History TV18 Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427747.ts?channelId=89842&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",EET TV FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427744.ts?channelId=105&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Chithiram TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427736.ts?channelId=43407&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",Cartoon Network
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427735.ts?channelId=89828&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Adhisayam TV FHD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427727.ts?channelId=132366&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="All",Aastha Tamil (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427726.ts?channelId=89866&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:30 group-title="All",Madha TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 #EXTINF:-1 group-title="All",Dheeran TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427741.ts?channelId=43514&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Harvest USA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427745.ts?channelId=89878&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Holy God TV (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427748.ts?channelId=89853&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Hosanna TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427749.ts?channelId=89854&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",IBC Tamil HD
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427751.ts?channelId=89821&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Madha TV (Spiritual)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427767.ts?channelId=85934&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Nambikkai TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427775.ts?channelId=89845&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Pogo Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427782.ts?channelId=89849&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Tata Play Toons+ Tamil
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427814.ts?channelId=132371&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="All",Thulir TV [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://view.apserver.in/tmp_hls9/thulirtv/index.m3u8
-#EXTINF:-1 group-title="All",Urchagam TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:10 group-title="All",Urchagam TV
 https://rtmp.bmlive.net/bms/urchagamtv/stream.m3u8
-#EXTINF:-1 group-title="All",Veera TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://ipcloud.live/veeratv/veeratvhd/index.m3u8
-#EXTINF:-1 group-title="All",Thendral TV Ambai
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-http://thendraltv.phoenixcreations.online/thendraltv/thendraltv/index.m3u8
-#EXTINF:-1 group-title="All",Thirumalai TV TAMILNADU BY TWC
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:24 group-title="All",Thirumalai TV TAMILNADU BY TWC
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
-#EXTINF:-1 group-title="All",V TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://live.applelive.in/vtv/vtv/index.m3u8
-#EXTINF:-1 group-title="All",Velavan TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
+#EXTINF:21 group-title="All",Velavan TV
 http://velavantv.sscloud7.in/live/velavantv/index.m3u8
-#EXTINF:-1 group-title="All",Thentamil TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
-https://gem.inet.moe/hls/thentamil.m3u8
