@@ -1,24 +1,22 @@
 #EXTM3U
-#EXTINF:32 group-title="News",Polimer News
+#EXTINF:32  tvg-id="00020" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/polimernews.png" tvg-name="Polimer News" group-title="News",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:-1 group-title="News",Polimer News FHD
+#EXTINF:-1  tvg-id="276bca200b6aef4e1e701c30b6a7b70a" tvg-name="Polimer News FHD" tvg-logo="http://ujm.from-in.com/panel/imageicon/03013c5.png" group-title="News",Polimer News FHD
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427783.ts?channelId=43515&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="News",Puthiya Thalaimurai TV
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427785.ts?channelId=43414&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:32 group-title="News",Puthiya Thalaimurai
+#EXTINF:32 group-title="News",Puthiya Thalaimurai tvg-id="f7dd87c38c38b507b3b4490359d2ab03" tvg-name=" Puthiya Thalaimurai TV" tvg-logo="http://ujm.from-in.com/panel/imageicon/8794550.png"
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 group-title="News",Sun News FHD
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427809.ts?channelId=78821&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:32 group-title="News",News7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:60 group-title="News",JJ News Tamil
-https://live.skystream.in/live/jjnewstamil/index.m3u8?hls_ctx=141308l7
-#EXTINF:-1 group-title="News",News18 Tamil Nadu FHD
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427779.ts?channelId=43412&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:594,News18 Tamil Nadu (1080p)
+#EXTVLCOPT:network-caching=1000
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:0,Kalaignar Seithigal (720p)
+#EXTVLCOPT:network-caching=1000
+https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 #EXTINF:-1 group-title="News",News J
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427777.ts?channelId=132364&uid=4710&deviceMac=00:1A:79:83:6F:C5
-#EXTINF:-1 group-title="News",Seithigal TV
-http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427799.ts?channelId=43418&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",News Tamil 24x7
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427778.ts?channelId=132369&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",Raj News
@@ -39,6 +37,8 @@ http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/42779
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427763.ts?channelId=132367&uid=4710&deviceMac=00:1A:79:83:6F:C5
 #EXTINF:-1 group-title="News",IBC Tamil HD
 http://tv.tamilwebcast.com/live/admin/a0e93b12-b582-4def-a080-cdc0b2e7f0e2/427751.ts?channelId=89821&uid=4710&deviceMac=00:1A:79:83:6F:C5
+#EXTINF:60 group-title="News",JJ News Tamil
+https://live.skystream.in/live/jjnewstamil/index.m3u8?hls_ctx=141308l7
 #EXTINF:100 group-title="Entertainment",SUN TV HD
 https://tinyurl.com/yaarokayaar1110-channel38
 #EXTINF:-1 group-title="Entertainment",Sun TV FHD
