@@ -1,42 +1,37 @@
-
-#EXTINF:-1 tvg-id="00020" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/polimernews.png" group-title="News",Polimer News
+#EXTINF:-1 tvg-id="00020" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:-1 tvg-id="00023" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/PuthiyaThalaimurai.png" group-title="News",Puthiya Thalaimurai
+#EXTINF:-1 tvg-id="00023" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png" group-title="News",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+#EXTINF:-1 tvg-id="00025" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="News",News7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU/images/LOGO_HD/image.png" group-title="News",News18 Tamil Nadu (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="News",News 7 Tamil (576p)
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" group-title="News",News Tamil 24x7 (1080p)
+https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
+#EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News",Tamil Janam (720p)
+https://app.ashokadigital.net/app/324ea1b0/index.m3u8
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="News",Kalaignar Seithigal (720p)
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="News",Madhimugam TV (576p)
 https://cdn-3.pishow.tv/live/1476/master.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="News",Malai Murasu TV (1080p) [Geo-blocked]
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="News",Moon TV (720p)
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="News",News 7 Tamil (576p)
-https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:-1 tvg-id="News18TamilNadu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU/images/LOGO_HD/image.png" group-title="News",News18 Tamil Nadu (1080p)
-https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png" group-title="News",News J (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1279/master.m3u8
-#EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" group-title="News",News Tamil 24x7 (1080p)
-https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (720p)
-https://live-cf-polimernews.dailyhunt.in/master.m3u8
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png" group-title="News",Puthiya Thalaimurai (576p)
-https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 tvg-id="SathiyamTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATHIYAM_TV/images/LOGO_HD/image.png" group-title="News",Sathiyam TV (720p)
 https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
-#EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News",Tamil Janam (720p)
-https://app.ashokadigital.net/app/324ea1b0/index.m3u8
 #EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="News",Puthuyugam TV (576p)
 https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="News",Thanthi TV (576p)
 https://cdn-3.pishow.tv/live/1612/master.m3u8
-#EXTINF:-1 tvg-id="944" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/Thanthi.png" group-title="News",Thanthi TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1749738934/ei/VpFKaNfkKOTG9fwPz8TowQQ/ip/2409:40f0:103a:44b0:bdec:6345:4cd8:ee39/id/Q8HA8Kfztwc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr5---sn-gwpa-itql7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLONyJxSZURCeFYtkBWowAskpKuVV9hKy5v28XVGGpcUhK3Y2GuD3rXmENwRy6mZyBKgo7F-V8Jj/spc/l3OVKTlo3mh-2aSHKtGBVK-uFWXeWQqOI1inJxNs3PGhd20NvEMhxx036RfuB_NI-r0/vprv/1/playlist_type/DVR/initcwndbps/991250/met/1749717335,/mh/xd/mm/44/mn/sn-gwpa-itql7/ms/lva/mv/m/mvi/5/pl/36/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51331020,51466697/mt/1749717154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAP2O0g0XSXmba9IDiaTLrs6acakdENHXqYygXoPD9s3SAiAfovlYxG66MNS_1yZGRTP4CXHP79IugX9FCbQStRpx9g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYMkgB8QT-AxeUzEwW5DTx-P8aUfAtT1L5saM4cKRmjECIQDNLP3Ya5kaDOHC-Fo8mSxNC5PSSikopPiJx_-P7Y9yPA%3D%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-id="00025" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/news7.jpeg" group-title="News",News7 Tamil
-https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="MNaduTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png" group-title="News",M Nadu TV (576p)
 https://mumt01.tangotv.in/MNADU/index.m3u8
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (720p)
+https://live-cf-polimernews.dailyhunt.in/master.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png" group-title="News",Puthiya Thalaimurai (576p)
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 tvg-id="0008" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/Kalaignar_TV.png" group-title="Entertainment",Kalaingar TV 2
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/kalaignar_nim_https/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="RojaMovies.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Entertainment",Roja Movies (1080p)
@@ -47,6 +42,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d
 http://161.248.38.40:8000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="RajDigitalPlus.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" group-title="Entertainment",Raj Digital Plus (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="Entertainment",Moon TV (720p)
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-id="946" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/MALAR_TV.png" group-title="Entertainment",Malar TV
 https://cdn-3.pishow.tv/live/473/master.m3u8
 #EXTINF:-1 tvg-id="0008" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/mn-tv-music-in.png" group-title="Entertainment",MN TV
@@ -657,19 +654,36 @@ https://server.sscloud7.in/live/ayyatv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="VinayagaTV" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1724773424.PNG" group-title="Local channels",Vinayaga TV
 http://server.mindspell.in/live/vinayagatv/index.m3u8
-#EXTINF:-1 tvg-id="194390" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/ChuttiTV.jpg" group-logo="" tvg-language="Tamil" group-title="SUN NETWORK",SNXT Chutti TV
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+#EXTINF:-1 group-logo="" tvg-id="194390" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/ChuttiTV.jpg" group-title="SUNNXT INDIA", SNXT Chutti TV
 https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194406" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/SunMusicHD.jpg" group-logo="" tvg-language="Tamil" group-title="SUN NETWORK",SNXT Sun Music HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+#EXTINF:-1 group-logo="" tvg-id="194406" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/SunMusicHD.jpg" group-title="SUNNXT INDIA", SNXT Sun Music HD
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194410" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/SunMusic.jpg" group-logo="" tvg-language="Tamil" group-title="SUN NETWORK",SNXT Sun Music
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ddc14c4da94c079d4f4c343ecdcd80:5701bee4ee9b625d0c8ed7de032a7478
+#EXTINF:-1 group-logo="" tvg-id="194410" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/SunMusic.jpg" group-title="SUNNXT INDIA", SNXT Sun Music
 https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
-#EXTINF:-1 tvg-id="194409" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/KTV_HD.png" group-logo="" tvg-language="Tamil" group-title="SUN NETWORK",SNXT KTV
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=426117d115b04497b0b0d425e8095184:aa751ae8a41ac6f87141734163ffe3b2
+#EXTINF:-1 group-logo="" tvg-id="194409" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/KTV_HD.png" group-title="SUNNXT INDIA", SNXT KTV
 https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
-#EXTINF:-1 tvg-id="194405" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/KTV_HD.png" group-logo="" tvg-language="Tamil" group-title="SUN NETWORK",SNXT KTV HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+#EXTINF:-1 group-logo="" tvg-id="194405" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/KTV_HD.png" group-title="SUNNXT INDIA", SNXT KTV HD
 https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
-#EXTINF:-1 tvg-id="194391" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/sunlife.jpg" group-logo="hhttp://tamilwebcast.com/IPTV/" tvg-language="Tamil" group-title="SUN NETWORK",IN SNXT Sun Life
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+#EXTINF:-1 group-logo="hhttp://tamilwebcast.com/IPTV/" tvg-id="194391" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/sunlife.jpg" group-title="SUNNXT INDIA",IN SNXT Sun Life
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
-#EXTINF:-1 tvg-id="194407" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/AdithyaTV.jpg" group-logo="https://twciptv.github.io/webtv/TV_LOGO/sunnxt.png" tvg-language="Tamil" group-title="SUN NETWORK",SNXT Adithya TV
-https://public.kliv.fun/zs2020/Suntv/manifest.mpd?id=194407
-#EXTINF:-1 tvg-id="945" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/Sun_TV_HD.png" group-title="SUN NETWORK",SNXT SUN TV
-https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
+
+
