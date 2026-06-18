@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg" group-title="News",Zee Tamil News (720p)
+#EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__X8QUpj4jFKCD2ySYuSX1m2845yQ4AYeZg&s" group-title="News",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 
 #EXTINF:-1 tvg-id="00020" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News
