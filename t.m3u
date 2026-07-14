@@ -49,6 +49,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 
 
 
+#EXTINF:-1 group-logo="" tvg-id="194390" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/ChuttiTV.jpg" group-title="SUNNXT INDIA", SUN NEWS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://api.sunnxt.com/licenseproxy/v3/nagravisionDRMProxy/?content_id=194404&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZW50X2lkIjoiMTk0NDA0IiwibWF4VXNlcyI6MiwiZGV2aWNlIjoid2ViIiwiZGV2aWNlX3R5cGUiOiJ3ZWIiLCJ1c2VySWQiOiI5MzEwMDYwMSIsImV4cGlyeVRpbWUiOjE3ODQwMDM3MzgsImRldmljZUlkIjoiODQ2MjY3NTM4MiIsImNyZWF0ZWRUaW1lIjoxNzgzOTk2NTM4LCJpcF9hZGRyZXNzIjoiMTIwLjU2Ljg4LjE5MCIsInVuaXF1ZUlkIjoiZDFkNDU5MmUtYmQwZS00MDQ1LWFhYWMtN2VjMWEzZDcwMzdmIiwidmlkZW9fZm9ybWF0IjoiZGFzaC1jZW5jIiwiYXNzZXRfaWQiOm51bGwsImRybV90eXBlIjpudWxsLCJsZ19zZGtfdmVyc2lvbiI6MjAsInNhbXN1bmdfc2RrX3ZlcnNpb24iOiI0IiwidWN2X3ZlcnNpb24iOjF9.s1_92v6WsinKIobxVR7ZPBOgw61oqJumkSB2K9nxuek|Content-Type=application/octet-stream|R{SSM}|
+https://suntvnews.akamaized.net/dfb363129d864c66bf36be6dd2e02d61/SunNews_P_IN_index.mpd?op=SUNNXT&cid=194404&userid=93100601&country=IN&bw=&q=3&nid=0&PlayBackId=8462675382
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
