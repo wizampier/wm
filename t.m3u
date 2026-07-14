@@ -1,23 +1,33 @@
 #EXTINF:-1 tvg-id="ZeeTamilNews.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__X8QUpj4jFKCD2ySYuSX1m2845yQ4AYeZg&s" group-title="News",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 
+#EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://exchange4media.gumlet.io/news-photo/98504-winlog1.jpg" group-title="News",Win News (576p)
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+
+
 #EXTINF:-1 tvg-id="00020" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (720p)
-https://live-cf-polimernews.dailyhunt.in/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="00023" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png" group-title="News",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png" group-title="News",Puthiya Thalaimurai (576p)
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="00025" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="News",News7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="News18TamilNadu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU/images/LOGO_HD/image.png" group-title="News",News18 Tamil Nadu (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="News",News 7 Tamil (576p)
-https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="NewsTamil24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png" group-title="News",News Tamil 24x7 (1080p)
 https://cdn-3.pishow.tv/live/1433/master.m3u8
 
@@ -26,16 +36,14 @@ https://cdn-3.pishow.tv/live/1433/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="News",Kalaignar Seithigal (720p)
-https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="News",Malai Murasu TV (1080p) [Geo-blocked]
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png" group-title="News",News J (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1279/master.m3u8
-#EXTINF:-1 tvg-id="SathiyamTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATHIYAM_TV/images/LOGO_HD/image.png" group-title="News",Sathiyam TV (720p)
-https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="News",Thanthi TV (576p)
 https://cdn-3.pishow.tv/live/1612/master.m3u8
@@ -49,12 +57,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 
 
 
-#EXTINF:-1 group-logo="" tvg-id="194390" tvg-language="Tamil" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/ChuttiTV.jpg" group-title="SUNNXT INDIA", SUN NEWS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://api.sunnxt.com/licenseproxy/v3/nagravisionDRMProxy/?content_id=194404&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb250ZW50X2lkIjoiMTk0NDA0IiwibWF4VXNlcyI6MiwiZGV2aWNlIjoid2ViIiwiZGV2aWNlX3R5cGUiOiJ3ZWIiLCJ1c2VySWQiOiI5MzEwMDYwMSIsImV4cGlyeVRpbWUiOjE3ODQwMDM3MzgsImRldmljZUlkIjoiODQ2MjY3NTM4MiIsImNyZWF0ZWRUaW1lIjoxNzgzOTk2NTM4LCJpcF9hZGRyZXNzIjoiMTIwLjU2Ljg4LjE5MCIsInVuaXF1ZUlkIjoiZDFkNDU5MmUtYmQwZS00MDQ1LWFhYWMtN2VjMWEzZDcwMzdmIiwidmlkZW9fZm9ybWF0IjoiZGFzaC1jZW5jIiwiYXNzZXRfaWQiOm51bGwsImRybV90eXBlIjpudWxsLCJsZ19zZGtfdmVyc2lvbiI6MjAsInNhbXN1bmdfc2RrX3ZlcnNpb24iOiI0IiwidWN2X3ZlcnNpb24iOjF9.s1_92v6WsinKIobxVR7ZPBOgw61oqJumkSB2K9nxuek|Content-Type=application/octet-stream|R{SSM}|
-https://suntvnews.akamaized.net/dfb363129d864c66bf36be6dd2e02d61/SunNews_P_IN_index.mpd?op=SUNNXT&cid=194404&userid=93100601&country=IN&bw=&q=3&nid=0&PlayBackId=8462675382
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
@@ -114,7 +117,7 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
 
 
-#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="Undefined",Puthuyugam TV (576p)
+#EXTINF:-1 tvg-id="PuthuyugamTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Puthuyugam TV (576p)
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 
 
@@ -181,8 +184,7 @@ https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Undefined",Win TV (576p)
-https://cdn-4.pishow.tv/live/1531/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png" group-title="Entertainment",Malar TV (720p) [Not 24/7]
@@ -569,14 +571,6 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="ShaliniTVTAMILNADU BY TWC" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1730741877_uxsXR_hp_400x400-removebg-preview.png&w=1080&q=75" group-title="Local channels",Shalini TV TAMILNADU BY TWC [UNSTABLE]
 https://live.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-id="DharumaiAdeenamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748150986_Dharumai%2520TV.png&w=1080&q=75" group-title="Local channels",Dharumai Adeenam TV
@@ -587,12 +581,16 @@ https://server.sscloud7.in/live/bharathitv/index.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="ThendralTVTAMILNADU BY TWC" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1735633652_IMG-20241231-WA0071.jpg&w=1920&q=75" group-title="Local channels",Thendral TV TAMILNADU BY TWC
 https://sscloud7.com/live/thendraltv/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="Not working",Kalaignar Seithigal (720p)
+https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+
+#EXTINF:-1 tvg-id="SathiyamTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATHIYAM_TV/images/LOGO_HD/image.png" group-title="Not working",Sathiyam TV (720p)
+https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
 
 
 
