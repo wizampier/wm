@@ -4,6 +4,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://exchange4media.gumlet.io/news-photo/98504-winlog1.jpg" group-title="News",Win News (576p)
 https://cdn-4.pishow.tv/live/1531/master.m3u8
 
+#EXTINF:-1 tvg-id="TamilJanam.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" group-title="News",Tamil Janam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="00020" tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
